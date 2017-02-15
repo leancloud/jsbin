@@ -5,6 +5,11 @@ var libraries = [
     'group': 'LeanCloud Storage'
   },
   {
+    'url': 'https://npmcdn.com/leancloud-storage@^2.0.0/dist/av.js',
+    'label': 'LeanCloud Storage ^2.0.0',
+    'group': 'LeanCloud Storage'
+  },
+  {
     'url': 'https://npmcdn.com/leancloud-storage@^1.0.0/dist/av.js',
     'label': 'LeanCloud Storage ^1.0.0',
     'group': 'LeanCloud Storage'
