@@ -5,17 +5,17 @@ var libraries = [
     'group': 'LeanCloud Storage'
   },
   {
-    'url': 'https://npmcdn.com/leancloud-storage@^2.0.0/dist/av.js',
+    'url': 'https://unpkg.com/leancloud-storage@^2.0.0/dist/av.js',
     'label': 'LeanCloud Storage ^2.0.0',
     'group': 'LeanCloud Storage'
   },
   {
-    'url': 'https://npmcdn.com/leancloud-storage@^1.0.0/dist/av.js',
+    'url': 'https://unpkg.com/leancloud-storage@^1.0.0/dist/av.js',
     'label': 'LeanCloud Storage ^1.0.0',
     'group': 'LeanCloud Storage'
   },
   {
-    'url': 'https://npmcdn.com/avoscloud-sdk@^0.6.0/dist/av.js',
+    'url': 'https://unpkg.com/avoscloud-sdk@^0.6.0/dist/av.js',
     'label': 'LeanCloud Storage ^0.6.0',
     'group': 'LeanCloud Storage'
   },
@@ -25,17 +25,17 @@ var libraries = [
     'group': 'LeanCloud Realtime'
   },
   {
-    'url': 'https://npmcdn.com/leancloud-realtime@^3.0.0/dist/realtime.browser.js',
+    'url': 'https://unpkg.com/leancloud-realtime@^3.0.0/dist/realtime.browser.js',
     'label': 'LeanCloud Realtime ^3.0.0',
     'group': 'LeanCloud Realtime'
   },
   {
-    'url': 'https://npmcdn.com/leancloud-realtime-plugin-typed-messages@^1.0.0',
+    'url': 'https://unpkg.com/leancloud-realtime-plugin-typed-messages@^1.0.0',
     'label': 'LeanCloud Realtime Plugin TypedMessages ^1.0.0',
     'group': 'LeanCloud Realtime'
   },
   {
-    'url': 'https://npmcdn.com/leancloud-realtime@^2.0.0/dist/AV.realtime.js',
+    'url': 'https://unpkg.com/leancloud-realtime@^2.0.0/dist/AV.realtime.js',
     'label': 'LeanCloud Realtime ^2.0.0',
     'group': 'LeanCloud Realtime'
   },
