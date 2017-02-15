@@ -31,7 +31,7 @@ CREATE TABLE `assets` (
   PRIMARY KEY (`id`),
   KEY `asset_url` (`asset_url`),
   KEY `username` (`username`)
-) ENGINE=MyISAM AUTO_INCREMENT=79 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=79 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -71,7 +71,7 @@ CREATE TABLE `forgot_tokens` (
   `created` datetime NOT NULL,
   KEY `index_expires` (`expires`),
   KEY `index_token_expires` (`token`,`created`,`expires`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --

@@ -1,5 +1,40 @@
 var libraries = [
   {
+    'url': 'https://rawgit.com/leancloud/javascript-sdk/master/dist/av.js',
+    'label': 'LeanCloud Storage WIP (via git)',
+    'group': 'LeanCloud Storage'
+  },
+  {
+    'url': 'https://npmcdn.com/leancloud-storage@^1.0.0/dist/av.js',
+    'label': 'LeanCloud Storage ^1.0.0',
+    'group': 'LeanCloud Storage'
+  },
+  {
+    'url': 'https://npmcdn.com/avoscloud-sdk@^0.6.0/dist/av.js',
+    'label': 'LeanCloud Storage ^0.6.0',
+    'group': 'LeanCloud Storage'
+  },
+  {
+    'url': 'https://rawgit.com/leancloud/js-realtime-sdk/dist/dist/realtime.browser.js',
+    'label': 'LeanCloud Realtime WIP (via git)',
+    'group': 'LeanCloud Realtime'
+  },
+  {
+    'url': 'https://npmcdn.com/leancloud-realtime@^3.0.0/dist/realtime.browser.js',
+    'label': 'LeanCloud Realtime ^3.0.0',
+    'group': 'LeanCloud Realtime'
+  },
+  {
+    'url': 'https://npmcdn.com/leancloud-realtime-plugin-typed-messages@^1.0.0',
+    'label': 'LeanCloud Realtime Plugin TypedMessages ^1.0.0',
+    'group': 'LeanCloud Realtime'
+  },
+  {
+    'url': 'https://npmcdn.com/leancloud-realtime@^2.0.0/dist/AV.realtime.js',
+    'label': 'LeanCloud Realtime ^2.0.0',
+    'group': 'LeanCloud Realtime'
+  },
+  {
     'url': 'https://code.jquery.com/jquery-git.js',
     'label': 'jQuery WIP (via git)',
     'group': 'jQuery'
